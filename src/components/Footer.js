@@ -30,7 +30,7 @@ const Footer = () => {
             <span> | deepanshusingh963n@gmail.com</span>
           </div>
           <div className="footer-item">
-            <a href="https://in.linkedin.com/in/aseem-saini-8b8883257" target="_blank" rel="noopener noreferrer">Maulana Aseem al-Abdullah Khan</a>
+            <a href="https://in.linkedin.com/in/aseem-saini-8b8883257" target="_blank" rel="noopener noreferrer">Aseem Saini</a>
             <span> | 08619011621.aiml@gmail.com</span>
           </div>
         </div>
@@ -41,3 +41,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
